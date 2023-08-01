@@ -50,7 +50,7 @@ public class DemoSelector extends javax.swing.JFrame {
         btnEngine = new javax.swing.JButton();
         
         System.out.println(" This is to check jenkins job, this is very understanding");
-
+        System.out.println("\n");
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Demo Selector");
         setResizable(false);
